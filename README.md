@@ -32,11 +32,11 @@ DB_USERNAME=root <br />
 DB_PASSWORD= <br /><br />
 
 <b>4.) Create a table by running the codes below on the terminal. </b><br /><br />
-php artisan migrate<br /><br /><br />
+php artisan migrate<br /><br />
 
-<b>4.) Start the server by running the codes below on the terminal.</b> <br /><br />
+<b>5.) Start the server by running the codes below on the terminal.</b> <br /><br />
 <i>php artisan serve --port=8080</i> <br /><br />
 
-<b>5.) Done, you can now clone and start the ReactJS App.</b> <br /><br />
+<b>6.) Done, you can now clone and start the ReactJS App.</b> <br /><br />
 
 <b>NOTE:</b> Make sure the API Server is running on this port http://127.0.0.1:8080
