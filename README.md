@@ -15,7 +15,7 @@ To clone and run this application, you will need the following tools installed:
 
 # II. How to run the server
 <b>1.) Open any terminal and clone this repository.</b><br /><br />
-https://github.com/xhacker14x/api-tms.git <br /><br />
+https://github.com/xhacker14x/tms-api.git<br /><br />
 
 <b>2.) Open the cloned project on your IDE (VSCode).</b> <br /><br />
 
