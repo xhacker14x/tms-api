@@ -87,11 +87,13 @@ class TaskController extends Controller
 
             return response()->json([
                 'status' => 200,
+                'tasks' => $task,
                 'message' => "Task updated successfully"
             ], 200);
         }else{
             return response()->json([
                 'status' => 404,
+                'tasks' => $task,
                 'message' => "No Such Task Found!"
             ], 404);
         }
